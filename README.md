@@ -1,4 +1,4 @@
-# games
+# Animação em tela dividida.
 Página dividida com animação.
 
 <a href="https://mssdesign.github.io/games/#" target="_blank">Clique aqui para ver o site.</a>
